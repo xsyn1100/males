@@ -23,7 +23,7 @@ call_7 : "**Hak Admin Berbahaya yang Diberikan **\n\nHarap hapus hak **LARANG PE
 call_8 : "**Hak Admin yang Diberikan Berbahaya **  \n\nHapus hak **TAMBAHKAN ADMIN BARU** dari bot."
 call_9 : "**Gagal mengalihkan Aliran**\nSilakan gunakan /lewati untuk mengubah trek lagi."
 call_10 : "Mengunduh Lagu Berikutnya dari Daftar Putar"
-call_11  : "Tambahkan @{0} ke saluran Anda[ ID: {1}].\n\nBot tidak dapat  dapatkan detail saluran."
+call_11 : "Tambahkan @{0} ke saluran Anda[ ID: {1}].\n\nBot tidak dapat  dapatkan detail saluran."
 
 # PLUGINS - Auth.py
 auth_1 : "आपके समूह की अधिकृत उपयोगकर्ता सूची (AUL) में केवल 20 उपयोगकर्ता हो सकते हैं|"
@@ -85,7 +85,7 @@ setting_4 : "⁉️ Apa Ini?\n\n👥 Semua Orang: Siapa pun dapat menggunakan pe
 setting_5 : "Tidak Ada Pengguna Resmi yang Ditemukan\n\nAnda dapat mengizinkan non-admin untuk menggunakan perintah admin saya dengan /auth dan menghapus dengan menggunakan /unauth"
 setting_9 : "  ️ Apa Ini?\n\nSaat diaktifkan, Bot akan menghapus pesannya setelah {0} untuk membuat obrolan Anda bersih dan jelas."
 setting_10 : "⁉️ Apa Ini?\n\n1) Grup: Memutar musik di grup tempat  perintah diberikan .\n\n2) Saluran: Memutar musik di saluran yang Anda inginkan. Atur id saluran melalui /channelplay"
-setting_11 :  "⁉️ Apa Ini?\n\n1) Semua Orang: Siapa pun yang hadir di grup ini dapat memutar musik di sini.\n\n2) Hanya Admin: Hanya admin yang dapat memutar musik di grup ini."
+setting_11 : "⁉️ Apa Ini?\n\n1) Semua Orang: Siapa pun yang hadir di grup ini dapat memutar musik di sini.\n\n2) Hanya Admin: Hanya admin yang dapat memutar musik di grup ini."
 setting_12 : "❌ Anda tidak  id saluran ditentukan untuk mode saluran.  Harap tentukan dengan /channelplay."
 setting_13 : "Tidak dapat mengubah mode putar dalam panggilan grup aktif.  Harap hentikan obrolan suara terlebih dahulu dengan /stop."
 setting_14 : "⁉️ Apa Ini?\n\nSaat diaktifkan, Bot akan segera menghapus perintah yang dijalankannya (/play, /pause, /shuffle, /stop dll).\n\  nBot akan membutuhkan hak menghapus pesan admin agar ini berfungsi dengan baik."
