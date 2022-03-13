@@ -3,7 +3,7 @@ name : jawa
 # General Strings
 general_1 : "Bales jeneng panganggo utawa ketik jeneng panganggo/user_id."
 general_2 : ""Kesalahan! Perintah disalahake""
-general_3 : "Sawetara **istiméwa dumadi** nalika ngolah pitakon sampeyan.\n\nTipe Pangecualian:- {0}"
+general_3 : "Sawetara **istiméwa dumadi** nalika ngolah pitakon sampeyan.\n\nTipe Pangecualian:- {0  }"
 general_4 : "Sampeyan minangka admin anonim ing grup obrolan iki!\nBali menyang Akun Panganggo Saka Hak Admin."
 general_5 : "Sampeyan ora duwe hak Sampeyan kudu dadi administrator kanthi hak swara kanggo ngatur swara iki. ngatur band Voice lan ora stream ing Bot Voice.."
 general_6 : "Swara boat ora stream ing tim."
