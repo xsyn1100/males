@@ -90,13 +90,13 @@ setting_13 : "Ora bisa ngganti mode play ing telpon grup aktif. Mangga mungkasi 
 setting_14 : "⁉️ Apa Iki?\n\nYen diaktifake, Bot bakal langsung mbusak printah sing dieksekusi (/play, /pause, /shuffle, /stop etc). kanggo mutusake masalah peer, Priksa manawa sampeyan wis nambahake bot ing saluran sampeyan lan promosiake minangka admin.\n\nCoba nyetel /channelplay maneh.."
 setting_15 : "Gagal ngrampungake peer, Priksa manawa sampeyan wis nambahake bot ing saluran sampeyan lan promosiake minangka admin.\n\nCoba nyetel /channelplay maneh.."
 
-set_cb_1 : "Njupuk panel kualitas audio ... "
+set_cb_1: "Njupuk panel kualitas audio ... "
 set_cb_2: "Njupuk panel kualitas video ..."
 set_cb_3: "Otentikasi Njupuk panel pangguna ... "
 set_cb_4: "Njupuk panel Mode Play ..."
 set_cb_5: "Njupuk panel mode resik ..."
 set_cb_6: "Gawe owahan."
-set_cb_7 : "Entuk Dhaptar Panganggo Otentikasi.. Enteni."
+set_cb_7: "Entuk Dhaptar Panganggo Otentikasi.. Enteni."
 set_cb_8: "Waras.."
 
 # Misc
@@ -118,7 +118,7 @@ gstats_11 : "**General Stats of {0}**\nSelect the buttons from below for which y
 
 # Play 
 #Play Callback 
-playcb_1 : "Iki dudu kanggo sampeyan! Golek lagu dhewe."
+playcb_1: "Iki dudu kanggo sampeyan! Golek lagu dhewe."
 playcb_2: "Entuk asil sabanjure"
 
 # Channel Play
@@ -152,21 +152,21 @@ play_18 : "**Ora Aktif Voice Chat Foud**\n\nKanggo nggunakake play force, kudu a
 
 
 #Playlist
-playlist_1 : "**භාවිතය:** /play [සංගීත නාමය හෝ Youtube සබැඳිය හෝ ශ්‍රව්‍ය වෙත පිළිතුරු දෙන්න]\nඔබට Bots Server Playlist වාදනය කිරීමට අවශ්‍ය නම්! පහත බොත්තම ඔබන්න."
-playlist_2 : "ඔබගේ ධාවන ලැයිස්තුව ලබා ගනිමින්. කරුණාකර රැඳී සිටින්න"
-playlist_3 : "ඔබට Bot's Server හි ධාවන ලැයිස්තුවක් නොමැත."
-playlist_4 : "ලබාගත් ධාවන ලැයිස්තුව:\n\n"
-playlist_5 :  "කාල සීමාව- {0} Mins"
-playlist_6 : "ධාවන ලැයිස්තු මකා දැමීම සඳහා PM හි මා අමතන්න."
-playlist_7 : "ධාවන ලැයිස්තුවේ ඇතුළත ඛණ්ඩ: {0}\n\nඔබේ ධාවන ලැයිස්තුවේ ඇති විශේෂිත ධාවන පථයක් මැකීමට බොත්තම් ඔබන්න.\n\nසම්පූර්ණ ධාවන ලැයිස්තුව මකා දැමීමට: Del Whole Playlist බොත්තම ඔබන්න."
-playlist_8 : "දැනටමත් පවතී\n\nමෙම ධාවන පථය ඔබගේ ධාවන ලැයිස්තුවේ පවතී."
-playlist_9 : "සමාවන්න! ඔබට ධාවන ලැයිස්තුවක සංගීතය {0}ක් පමණක් තිබිය හැක."
-playlist_10 : "ධාවන ලැයිස්තු එකතු කිරීම\n\n{0}\nඔබේ ධාවන ලැයිස්තුවට එකතු කරන ලදී."
-playlist_11 : "ඔබගේ ධාවන පථය සාර්ථකව මකා ඇත."
-playlist_12 : "ඔබගේ ධාවන පථය මැකීමට අසමත් විය."
-playlist_13 : "සේවාදායකයෙන් ඔබගේ සම්පූර්ණ ධාවන ලැයිස්තු මකා ඇත."
-playlist_14 : "**ඔබට ඔබගේ සම්පූර්ණ ධාවන ලැයිස්තුව මකා දැමීමට අවශ්‍ය බව ඔබට විශ්වාසද?**\n\nඔබගේ ධාවන ලැයිස්තුව ඔබට අහිමි වනු ඇති අතර මෙය පසුව ප්‍රතිසාධනය කළ නොහැක."
-playlist_15 : "[සම්පූර්ණ ධාවන ලැයිස්තුව පරීක්ෂා කරන්න]({0})"
+playlist_1 : "**nggunakake:** /play [Jeneng musik utawa Mbales link Youtube utawa audio]\nkowe Bots Server Playlist Yen sampeyan pengin muter! Klik tombol ing ngisor iki."
+playlist_2 : "Njupuk dhaptar lagu sampeyan. Tetep antri, please"
+playlist_3 : "Sampeyan ora duwe dhaptar lagu ing Bot's Server."
+playlist_4 : "Dhaptar lagu sing diundhuh:\n\n"
+playlist_5 : "wektu- {0} Mins"
+playlist_6 : "Hubungi kula ing PM kanggo mbusak dhaptar lagu."
+playlist_7 : "Bagean ing dhaptar lagu: {0}\n\nPencet tombol kanggo mbusak trek tartamtu ing dhaptar lagu.\n\nKanggo mbusak kabeh dhaptar lagu: Del Whole Playlist Pencet tombol."
+playlist_8 : "Wis ana\n\nTrek iki ana ing dhaptar lagu sampeyan."
+playlist_9 : "Nuwun sewu! Sampeyan duwe musik ing dhaptar lagu {0}Mung duwe."
+playlist_10 : "Nambahake dhaptar lagu\n\n{0}\nDitambahake menyang dhaptar lagu sampeyan."
+playlist_11 : "Trekmu wis kasil dibusak."
+playlist_12 : "Gagal mbusak trek sampeyan."
+playlist_13 : "Kabeh dhaptar lagu sampeyan wis dibusak saka server."
+playlist_14 : "**Apa sampeyan yakin pengin mbusak kabeh dhaptar lagu??**\n\nSampeyan bakal kelangan dhaptar lagu lan iki ora bisa dibalekake mengko."
+playlist_15 : "[Priksa dhaptar lagu lengkap]({0})"
 playlist_16 : "පෝලිම් සහිත ධාවන ලැයිස්තුව:"
 playlist_17 : "පෝලිම් පිහිටීම -"
 playlist_18 : "[සම්පූර්ණ පෝලිම් සහිත ධාවන ලැයිස්තුව පරීක්ෂා කරන්න]({0})\n\bඅවසන් පෝලිම් ස්ථානය : **{1}**"
@@ -177,7 +177,7 @@ playmode_1 : "Pilih mode sing pengin diputer pitakon ing band sampeyan [{0}]. "
 playmode_2: "{0} owah-owahan ngganti setelan lan kasil disimpen"
 
 #Stream 
-str_1 : "Mangga wenehi pranala M3u8 utawa pranala indeks."
+str_1: "Mangga wenehi pranala M3u8 utawa pranala indeks."
 str_2: "Arus sing bener wis diverifikasi \n\n Mangga ngenteni link disetel."
 str_3: "youtube ora bisa stream live stream. Golek format langsung."
 
