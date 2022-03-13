@@ -227,8 +227,8 @@ stream_4 : "🎶 **Musik diwiwiti ** 💡\n\n**🏷judhul:** [{0}]({1})\n⌛️*
 # Inline Buttons
 
 #General Buttons
-CLOSE_BUTTON  : "🗑 Nutup"
-CLOSEMENU_BUTTON  : "🗑 Nutup menu"
+CLOSE_BUTTON  : "🗑 ɴᴜᴛᴜᴘ ᴍᴇɴᴜ" 
+CLOSEMENU_BUTTON  : "🗑 ɴᴜᴛᴜᴘ ᴍᴇɴᴜ"
 BACK_BUTTON : "⬅ balik"
 UNBAN_BUTTON : "🗑 Mbusak larangan partner"
 
@@ -266,8 +266,8 @@ P_B_4 : "🎵 Muter dhaptar musik"
 
 #Playlist
 PL_B_1 : "🚀 Muter dhaptar musik "
-PL_B_2 : "✚ Dhaptar musik"
-PL_B_3 : "✚ ekstra"
+PL_B_2 : "✚ ᴅʜᴀᴘᴛᴀʀ"
+PL_B_3 : "✚ ᴛᴀᴍʙᴀʜᴀɴ"
 PL_B_4 : "📡 Carane kanggo muter"
 PL_B_5 : "🔄 Mbusak kabeh dhaptar musik"
 PL_B_6 : "↗️ Mbusak dhaptar musik"
