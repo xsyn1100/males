@@ -183,40 +183,40 @@ str_3: "youtube ora bisa stream live stream. Golek format langsung."
 
 #TopPlay
 tracks_1 : "**Processing {0} Top 10 Playlist**\nThis could take some mins(around 3-4 mins).. Please Wait...\n\n**👤Requested By:** {1}\n\nCheck Top 10 tracks by /stats"
-tracks_2 : "**දෝෂය**\n\nඑහෙම නෑ**{0} ඉහළම ධාවන ලැයිස්තුව 10** bot ගේ සේවාදායකයන් මත. කරුණාකර වෙනත් ධාවන ලැයිස්තුවක් උත්සාහ කරන්න"
+tracks_2 : "**kesalahan**\n\naku ora ngerti**{0} Top playlist 10** ing server bot. Coba dhaptar lagu liyane"
 
 
 # TOOLS
 
 #Lyrics
-lyrics_1 : "**භාවිතය:**\n\n/lyrics [ Music Name]"
-lyrics_2 : "ගී පද සොයමින්"
-lyrics_3 : "❌ පද රචනය ගෙන ඒමට අපොහොසත් විය😭.\n\n💡**සෙවීමට උත්සාහ කළේ:** {0}"
+lyrics_1 : "**nggunakake:**\n\n/lyrics [ Music Name]"
+lyrics_2 : "Nggolek lirik"
+lyrics_3 : "❌ Gagal njupuk lirik.\n\n💡**Nyoba golek:** {0}"
 lyrics_5 : 
-lyrics_4 : "පහත බොත්තම මත ක්ලික් කර දිගු අයාචිත තැපැල් වර්ග ගී සෙවුම් වළක්වා ගැනීමට සෙවූ පද ලබා ගන්න."
+lyrics_4 : "Klik tombol ing ngisor iki kanggo njupuk istilah sing digoleki supaya ora spam dawa."
 
 #Ping
-ping_1 : "පොං!!!!"
-ping_2 : "**පොං!**\n`⚡{0} ms`\n\n<b><u>{1}පද්ධති සංඛ්‍යාලේඛන:</u></b>\nඅතිකාල : {2} \nRAM: {3} \nCpu : {4} \nDisk : {5}"
+ping_1 : "Pong!!!!"
+ping_2 : "**Pong!**\n`⚡{0} ms`\n\n<b><u>{1}Sistem Statistika:</u></b>\nliwat wektu : {2} \nRAM: {3} \nCpu : {4} \nDisk : {5}"
 
 # Song
-song_1 : "ඔබට යූ ටියුබ් වෙතින් සංගීතය හෝ වීඩියෝ බාගත කළ හැක්කේ පුද්ගලික කතාබස් වලදී පමණි. කරුණාකර මාව පුද්ගලික කතාබස් වලින් ආරම්භ කරන්න."
-song_2 : "**භාවිතය:**\n\n/song [සංගීත නාමය] හෝ [Youtube Link]"
-song_3 : "සජීවී සබැඳිය අනාවරණය විය. මට සජීවී යූ ටියුබ් වීඩියෝ බාගත කළ නොහැක."
-song_4 : "**🔗ශීර්ෂය:**- {0}\n\nඔබට බාගත කිරීමට අවශ්‍ය වර්ගය තෝරන්න."
-song_5 : "වලංගු Youtube සබැඳියක් නොවේ"
-song_6 : "ආකෘති ලබා ගනිමින්.. \n\nකරුණාකර රැඳී සිටින්න.."
-song_7 : "වීඩියෝව සඳහා පවතින ආකෘති ලබා ගැනීමට අසමත් විය. කරුණාකර වෙනත් ඕනෑම ධාවන පථයක් උත්සාහ කරන්න."
-song_8 : "බාගත කිරීම ආරම්භ විය\n\nබාගත කිරීමේ වේගය මන්දගාමී විය හැක. කරුණාකර ඉන්න.."
-song_9 : "Youtube-DL වෙතින් ගීතය බාගත කිරීම අසාර්ථක විය\n\n**හේතුව:** {0}"
-song_10 : "සේවාදායක වෙතින් ටෙලිග්‍රැම් උඩුගත කිරීම අසාර්ථක විය."
-song_11 : "උඩුගත කිරීම ආරම්භ කර ඇත\n\nඋඩුගත කිරීමේ වේගය මන්දගාමී විය හැක. කරුණාකර ඉන්න.."
+song_1 : "Sampeyan mung bisa ndownload musik utawa video saka YouTube ing obrolan pribadi. Mangga miwiti kula karo chatting pribadi."
+song_2 : "**nggunakake:**\n\n/tembang [Jeneng Musik] utawa a [Youtube Link]"
+song_3 : "Link langsung dicethakaké. Aku ora bisa ngundhuh video youtube langsung."
+song_4 : "**🔗judhul:**- {0}\n\nPilih jinis sing pengin didownload."
+song_5 : "sah Youtube Ora link"
+song_6 : "Entuk model.. \n\nTahan baris, mangga.."
+song_7 : "Gagal njupuk format sing ana kanggo video. Mangga nyoba trek liyane."
+song_8 : "Download diwiwiti\n\nKacepetan download bisa uga alon. Mangga ngenteni.."
+song_9 : "Youtube-DL Gagal ndownload lagu saka\n\n**alesan:** {0}"
+song_10 : "Gagal ngunggah telegram saka server."
+song_11 : "Unggahan diwiwiti \ n \ nKacepetan upload bisa uga alon. Mangga ngenteni.."
 
 # Tools - Queue
-queue_1 : "කරුණාකර රැඳී සිටින්න.. පෝලිම ලබා ගනිමින්.."
-queue_2 : "පෝලිමේ ඇතුළත පීලි නැත."
-queue_3 : "<u>**පෝලිම් පීලි:</u>**  [මෙතැනින් තවත් පෝලිම් සහිත පීලි පරීක්ෂා කරන්න]({0})"
-queue_4 : "⏳ පෝලිමට එකතු කරන ලදී **#{0}\n\n💡ශීර්ෂය:** {1}\n**⏱කාල සීමාව:** {2}\n👤**එකතු කරන ලද්දේ:** {3}"
+queue_1 : "Enteni. Antri.."
+queue_2 : "Ora ana trek ing antrian."
+queue_3 : "<u>**Antrian trek:</u>**  [Priksa trek antrian liyane ing kene]({0})"
+queue_4 : "⏳ Ditambahake ing antrian **#{0}\n\n💡judhul:** {1}\n**Watesan wektu:** {2}\n👤**Ditambahake:** {3}"
 
 # All Streaming Lines
 stream_1 : "📡 **Musik diwiwiti** 💡\n\n👤**Dijaluk:** {0}\n🔦**rincian: **[Here]({1})"
@@ -343,17 +343,17 @@ block_6 : "අවහිර කළ පරිශීලක ලැයිස්තු
 block_7 : "**අවහිර කළ පරිශීලකයින්:**\n\n"
 
 #Blacklist Chats
-black_1 : "**භාවිතය:**\n/blacklistchat [CHAT_ID]"
-black_2 : "කතාබස් දැනටමත් Blacklisted කර ඇත."
-black_3 : "කතාබස් සාර්ථකව Blacklisted කර ඇත"
-black_4 : "**භාවිතය:**\n/whitelistchat [CHAT_ID]"
-black_5 : "කතාබස් දැනටමත් සුදු ලැයිස්තුගත කර ඇත."
-black_6 : "කතාබස් සාර්ථකව සුදු ලැයිස්තුගත කර ඇත"
-black_7 : "**Blacklisted කතාබස්:**\n\n"
-black_8 : "Blacklisted කතාබස් නැත"
+black_1 : "**nggunakake:**\n/blacklistchat [CHAT_ID]"
+black_2 : "Chat wis Blacklisted කර ඇත."
+black_3 : "Ngobrol kanthi sukses Blacklisted කර ඇත"
+black_4 : "**nggunakake:**\n/whitelistchat [CHAT_ID]"
+black_5 : "Obrolan wis ana ing daftar putih."
+black_6: "Obrolan kasil mlebu ing daftar putih"
+black_7 : "**Blacklisted pacelathon:**\n\n"
+black_8 : "Blacklisted pacelathon ora"
 
 #videolimit
-vid_1 : "**භාවිතය:**\n/set_video_limit [Number of chats allowed] or [Disable]"
+vid_1 : "**nggunakake:**\n/set_video_limit [Number of chats allowed] or [Disable]"
 vid_2 : "Gunakake nomer numerik kanggo nyetel watesan."
 vid_3 : "Watesan maksimum telpon video Chat {0} Ditetepake nganti."
 vid_4 : "Telpon video dipateni"
@@ -369,9 +369,9 @@ log_2 : "Logging Diaktifake"
 log_3 : "Logging dipatèni"
 
 #videomode
-vidmode_1 : "**භාවිතය:**\n/videomode [download|m3u8]"
-vidmode_2 : "වීඩියෝ ප්ලේ ප්‍රකාරය බාගැනීම් ලෙස සකසා ඇත. බොට් දැන් ධාවන පථ බාගත කරනු ඇත."
-vidmode_3 : "වීඩියෝ ප්ලේ මාදිලිය m3u8 ලෙස සකසා ඇත. Bot දැන් සජීවී ධාවන පථ වනු ඇත."
+vidmode_1 : "**nggunakake:**\n/videomode [download|m3u8]"
+vidmode_2 : "Mode muter video disetel kanggo ngundhuh. Bot saiki bakal ngundhuh trek kasebut."
+vidmode_3 : "Mode muter video disetel menyang m3u8. Kapal saiki bakal dadi trek langsung."
 
 #broadcast
 broad_1 : "**Bot Matur nuwun saking {1} karo {0} Pesen dikirim ing chatting.**"
@@ -400,8 +400,8 @@ heroku_14 : "Git විධාන දෝෂයකි"
 heroku_15 : "වලංගු නොවන Git රිපෝවකි."
 
 #Private bot mode
-pbot_1 : "**භාවිතය:**\n/authorize [CHAT_ID]"
-pbot_2 :  "**භාවිතය:**\n/unauthorize [CHAT_ID]"
+pbot_1 : "**nggunakake:**\n/authorize [CHAT_ID]"
+pbot_2 :  "**nggunakake:**\n/unauthorize [CHAT_ID]"
 pbot_3 : "අවසර ලත් ලැයිස්තුවට ලබා දුන් කතාබස් එක් කරන ලදී"
 pbot_4 : "අවසර ලත් ලැයිස්තුවෙන් ලබා දුන් කතාබස් ඉවත් කරන ලදී"
 pbot_5 : "කතාබස් දැනටමත් බලයලත් ලැයිස්තුවේ ඇත"
