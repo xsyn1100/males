@@ -180,9 +180,10 @@ playmode_1 : "Pilih mode sing pengin diputer pitakon ing grup sampeyan[{0}]."
 playmode_2 : "{0} Ngganti setelan lan kasil disimpen"
 
 #Stream 
-str_1 : "Mangga nyedhiyani pranala M3u8 utawa pranala indeks."
-str_2 : "✅ Aliran sing bener diverifikasi\n\nMangga ngenteni kanggo nyiyapake link.."
-str_3 : "Youtube ora bisa streaming langsung. Ora ana format urip sing ditemokake"
+str_1 : "कृपया M3u8 लिंक या इंडेक्स लिंक प्रदान करें।"
+str_2 : "मान्य स्ट्रीम सत्यापित\n\nकृपया संसाधन लिंक की प्रतीक्षा करें.."
+str_3 : "यूट्यूब लाइव स्ट्रीम स्ट्रीम करने में असमर्थ। कोई लाइव प्रारूप नहीं मिला"
+
 
 #TopPlay
 tracks_1 : "**Ngolah {0} Top 10 Playlist**\nIki bisa njupuk sawetara menit (udakara 3-4 menit).. Mangga Enteni...\n\n**👤Dijaluk dening:** {1}\n\nPriksa Top 10 trek dening /stats"
