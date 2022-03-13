@@ -1,29 +1,29 @@
 name : sinhala
 
 # General Strings
-general_1 : "Balas pesan pengguna atau berikan nama pengguna/user_id."
-general_2 : "Kesalahan! Penggunaan Perintah Salah."
-general_3 : "Beberapa **pengecualian terjadi** saat memproses kueri Anda.\n\nJenis Pengecualian:- {0  }"
-general_4 : "Anda adalah admin anonim di grup obrolan ini!\nKembali ke Akun Pengguna Dari Hak Admin."
-general_5 : "Anda harus menjadi admin dengan mengelola hak obrolan suara untuk melakukan tindakan ini."
-general_6 : "Bot  tidak streaming di obrolan suara."
+general_1 : "Reply kanggo pesen pangguna utawa /user_id Ketik jeneng panganggo."
+general_2 : "Kesalahan! Ana salah gunane perintah kasebut"
+general_3 : "Ana kesalahan ** nalika ngolah pitakon sampeyan.\n\nSalah jinis:- {0  }"
+general_4 : "Sampeyan minangka administrator anonim ing grup iki!\nBali menyang akun panganggo saka hak admin."
+general_5 : "Sampeyan kudu dadi administrator kanthi hak swara kanggo ngatur swara iki."
+general_6 : "Swara boat ora stream ing tim."
 
 # Classes - Telegram.py
-tg_1 : "Bot **kelebihan beban** dengan unduhan sekarang.\n\n**Coba Setelah:** {0} (__waktu yang diharapkan__)"
-tg_2 : "Gagal mengunduh media dari telegram."
+tg_1 : "Bot saiki karo download **Kakehan beban**.\n\n**Coba maneh mengko:** {0} (__wektu samesthine__)"
+tg_2 : "Ngundhuh media saka Telegram gagal."
 
 # Core - Call.py
-call_1 : "Bot memerlukan **Admin** Izin untuk mengundang akun asisten ke saluran Anda.\n\nNonaktifkan mode putar Saluran melalui : /playmode"
-call_2 : "Asisten diblokir di grup atau saluran Anda, harap batalkan pemblokiran.\n\n*  *Nama Pengguna Asisten:** @{0}\n**ID Asisten:** {1}"
-call_3 : "Pengecualian Terjadi Saat Mengundang Akun Asisten ke chat Anda.\n\n**Alasan**: {0}"
-call_4 : "Bot memerlukan **Undang Pengguna Melalui Tautan** Izin untuk mengundang akun asisten ke grup obrolan Anda."
-call_5 : "Akun Asisten akan bergabung dalam 5 Detik..Harap Tunggu!"
-call_6 : "Akun Asisten[{0}  ] Berhasil Bergabung.\n\nMemulai Musik Sekarang"
-call_7 : "**Hak Admin Berbahaya yang Diberikan **\n\nHarap hapus hak **LARANG PENGGUNA** dari bot."
-call_8 : "**Hak Admin yang Diberikan Berbahaya **  \n\nHapus hak **TAMBAHKAN ADMIN BARU** dari bot."
-call_9 : "**Gagal mengalihkan Aliran**\nSilakan gunakan /lewati untuk mengubah trek lagi."
-call_10 : "Mengunduh Lagu Berikutnya dari Daftar Putar"
-call_11 : "Tambahkan @{0} ke saluran Anda[ ID: {1}].\n\nBot tidak dapat  dapatkan detail saluran."
+call_1 : "Kanggo ngundang Bot menyang akun Asisten Saluran **Admin** Ijin dibutuhake.\n\n: /playmode Pateni Mode Musik Saluran liwat"
+call_2 : "Mitra dilarang ing grup utawa saluran sampeyan, aja nglarang.\n\n* *Jeneng panganggo tambahan:** @{0}\n**ID Asisten:** {1}"
+call_3 : "Ana kesalahan nalika ngundang tim menyang akun Asisten.\n\n**alesan**: {0}"
+call_4 : "Kanggo Bot **Ngundang pangguna liwat link** Tim sampeyan butuh ijin kanggo ngundang tim menyang Akun Asisten."
+call_5 : "Akun asisten bakal disambung ing 5 detik..tunggu!"
+call_6 : "Asisten Akun[{0} ] Kasil gabung.\n\nMusik wiwit saiki"
+call_7 : "**Hak admin sing mbebayani diwenehake **\n\nSaka bot, mangga **BAN USERS** Mbusak hak."
+call_8 : "**Hak admin sing mbebayani diwenehake **\n\nSaka bot, mangga **ADD NEW ADMINS** Mbusak hak."
+call_9 : "**Gagal nransfer musik**\nMangga ngganti musik maneh /skip Gunakake."
+call_10 : "Download episode sabanjure saka dhaptar musik"
+call_11 : "Mangga nambah @{0} menyang saluran sampeyan[ ID: {1}].\n\nBot ora bisa entuk rincian saluran."
 
 # PLUGINS - Auth.py
 auth_1 : "आपके समूह की अधिकृत उपयोगकर्ता सूची (AUL) में केवल 20 उपयोगकर्ता हो सकते हैं|"
