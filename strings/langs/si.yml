@@ -167,9 +167,9 @@ playlist_12 : "Gagal mbusak trek sampeyan."
 playlist_13 : "Kabeh dhaptar lagu sampeyan wis dibusak saka server."
 playlist_14 : "**Apa sampeyan yakin pengin mbusak kabeh dhaptar lagu??**\n\nSampeyan bakal kelangan dhaptar lagu lan iki ora bisa dibalekake mengko."
 playlist_15 : "[Priksa dhaptar lagu lengkap]({0})"
-playlist_16 : "පෝලිම් සහිත ධාවන ලැයිස්තුව:"
-playlist_17 : "පෝලිම් පිහිටීම -"
-playlist_18 : "[සම්පූර්ණ පෝලිම් සහිත ධාවන ලැයිස්තුව පරීක්ෂා කරන්න]({0})\n\bඅවසන් පෝලිම් ස්ථානය : **{1}**"
+playlist_16 : "Dhaptar lagu karo antrian:"
+playlist_17 : "Lokasi antrian -"
+playlist_18 : "[Priksa dhaptar lagu kanthi antrian lengkap]({0})\n\bLokasi antrian pungkasan : **{1}**"
 
 
 #Playmode
@@ -191,8 +191,7 @@ tracks_2 : "**kesalahan**\n\naku ora ngerti**{0} Top playlist 10** ing server bo
 #Lyrics
 lyrics_1 : "**nggunakake:**\n\n/lyrics [ Music Name]"
 lyrics_2 : "Nggolek lirik"
-lyrics_3 : "❌ Gagal njupuk lirik.\n\n💡**Nyoba golek:** {0}"
-lyrics_5 : 
+lyrics_3 : "❎ Gagal njupuk lirik.\n\n💡**Nyoba golek:** {0}"
 lyrics_4 : "Klik tombol ing ngisor iki kanggo njupuk istilah sing digoleki supaya ora spam dawa."
 
 #Ping
@@ -228,7 +227,7 @@ stream_4 : "📡 **Musik diwiwiti** 💡\n\n**🏷judhul:** [{0}]({1})\n⌛️**
 
 #General Buttons
 CLOSE_BUTTON  : "🗑 Nutup"
-CLOSEMENU_BUTTON  : "🗑 Nutup menu"
+CLOSEMENU_BUTTON  : "🗑 Nutup"
 BACK_BUTTON : "⬅ bali"
 UNBAN_BUTTON : "🗑 Mbusak larangan partner"
 
