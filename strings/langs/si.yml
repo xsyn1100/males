@@ -9,7 +9,7 @@ general_5 : "Sampeyan ora duwe hak Sampeyan kudu dadi administrator kanthi hak s
 general_6 : "Swara boat ora stream ing tim."
 
 # Classes - Telegram.py
-tg_1 : "Bot saiki karo download **Kakehan beban**.\n\n** Coba maneh mengko:** {0} (__wektu samesthine__)"
+tg_1 : "Bot saiki karo download **Kakehan beban**.\n\n** Coba maneh mengko:** {0} (__expected time__)"
 tg_2 : "Ngundhuh media saka Telegram gagal."
 
 # Core - Call.py
