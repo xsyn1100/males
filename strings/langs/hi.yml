@@ -175,8 +175,8 @@ playlist_18 : "[Checkout Whole Queued Playlist]({  0})\n\nPosisi Antrian Terakhi
 
 
 #Playmode
-playmode_1 : "उस मोड का चयन करें जिसमें आप अपने समूह के अंदर प्रश्नों को चलाना चाहते हैं[{0}]।"
-playmode_2 : "सेटिंग बदली गई और {0} द्वारा सफलतापूर्वक सहेजी गई"
+playmode_1 : "Pilih mode di mana Anda ingin memainkan kueri di dalam grup Anda[{0}]."
+playmode_2 : "Setelan diubah dan berhasil disimpan oleh {0}"
 
 #Stream 
 str_1 : "कृपया M3u8 लिंक या इंडेक्स लिंक प्रदान करें।"
@@ -220,10 +220,10 @@ queue_3 : "<u>**trek antrean:</u>** [lihat trek antrean lainnya dari sini]({0})"
 queue_4 : "⏳ Ditambahkan ke Antrian **#{0}\n\n💡Judul:** {1}\n**⏱Durasi:** {2}\n👤**Ditambahkan oleh:** {3}"
 
 # All Streaming Lines
-stream_1 : "📡 **स्ट्रीमिंग शुरू की** \n\n👤**द्वारा अनुरोध किया गया:** {0}\n🔦**जानकारी: **[यहां]({1})"
-stream_2 : "📡 **यूआरएल के माध्यम से स्ट्रीमिंग शुरू की ** 💡\n\n👤**द्वारा अनुरोध किया गया:** {0}"
-stream_3 : "📡 **स्ट्रीमिंग शुरू की** 💡\n\n**🏷शीर्षक:** {0}\n⌛️**अवधि**: {1}\n👤**द्वारा अनुरोध किया गया:** {2}"
-stream_4 : "📡 **स्ट्रीमिंग शुरू की** 💡\n\n**🏷शीर्षक:** [{0}]({1})\n⌛️**अवधि**: {2}\n👤**द्वारा अनुरोध किया गया:* * {3}"
+stream_1 : "📡 **Memulai Streaming** 💡\n\n👤**Diminta Oleh:** {0}\n🔦**Informasi: **[Di Sini]({1})"
+stream_2 : "📡 **  Memulai Streaming melalui URL ** \n\n👤**Diminta Oleh:** {0}"
+stream_3 : "📡 **Memulai Streaming** 💡\n\n**🏷Judul:** {0}\n  ⌛️**Durasi**: {1}\n👤**Diminta Oleh:** {2}"
+stream_4 : "📡 **Memulai Streaming** 💡\n\n**🏷Judul:** [{0}  ]({1})\n⌛️**Durasi**: {2}\n👤**Diminta Oleh:** {3}"
 
 # Inline Buttons
 
@@ -266,9 +266,9 @@ P_B_3 : "🏮 mulai streaming langsung"
 P_B_4 : "🎵 mainkan daftar putar"
 
 #Playlist
-PL_B_1 : "🚀 mainkan daftar putar"
-PL_B_2 : "✚ daftar putar"
-PL_B_3 : "✚ Berlebihan"
+PL_B_1 : "🚀 Putar daftar putar"
+PL_B_2 : "✚ Daftar putar"
+PL_B_3 : "✚ Pengaturan"
 PL_B_4 : "📡 Putar mode"
 PL_B_5 : "🔄 daftar putar lengkap dell"
 PL_B_6 : "↗️ hapus daftar putar"
