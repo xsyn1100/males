@@ -219,10 +219,10 @@ queue_3 : "<u>**Antrian trek:</u>**  [Priksa trek antrian liyane ing kene]({0})"
 queue_4 : "⏳ Ditambahake ing antrian **#{0}\n\n💡judhul:** {1}\n**Watesan wektu:** {2}\n👤**Ditambahake:** {3}"
 
 # All Streaming Lines
-stream_1 : "🎶 **Musik diwiwiti** 💡\n\n👤**Dijaluk:** {0}\n🚀**rincian: **[kene]({1})"
-stream_2 : "🎶 **Musik diwiwiti liwat URL ** 💡\n\n👤**Dijaluk:** {0}"
-stream_3 : "🎶 **Musik diwiwiti ** 💡\n\n**🏷judhul:** {0}\n⌛️**wektu**: {1}\n👤**Dijaluk:** {2}"
-stream_4 : "🎶 **Musik diwiwiti ** 💡\n\n**🏷judhul:** [{0}]({1})\n⌛️**wektu**: {2}\n👤**Dijaluk:** {3}"
+stream_1 : "📡 **Miwiti Streaming** 💡\n\n👤**Dijaluk dening:** {0}\n🔦**Informasi: **[kene]({1})"
+stream_2 : "📡 **Miwiti Streaming liwat URL ** 💡\n\n👤**Requested By:** {0}"
+stream_3 : "📡 **Miwiti Streaming** 💡\n\n**🏷Title:** {0}\n⌛️**suwene**: {1}\n👤**Dijaluk dening:** {2}"
+stream_4 : "📡 **Miwiti Streaming** 💡\n\n**🏷Title:** [{0}]({1})\n⌛️**suwene**: {2}\n👤**Dijaluk dening:** {3}"
 
 # Inline Buttons
 
