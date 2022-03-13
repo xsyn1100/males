@@ -84,12 +84,12 @@ setting_1 : "⚙️ **Setelan Bot Musik**\n\n🖇**Group:** {0}\n🔖**Group ID:
 setting_3 : "⁉️ Apa Iki?\n\n1) Langsung: Muter pitakon telusuran langsung. Gunakake -v kanggo muter video ing mode langsung.\n\n2) Inline: Ngasilake Tombol Markup Inline kanggo milih antarane video & audio."
 setting_4 : "⁉️ Apa Iki?\n\n👥 Saben uwong: Sapa wae bisa nggunakake perintah admin(skip, pause, resume etc) ana ing grup iki.\n\n🙍 Mung Admin: Mung admin lan pangguna sing sah sing bisa nggunakake perintah admin."
 setting_5 : "Ora ana pangguna sing sah ditemokake\n\nSampeyan bisa ngidini sembarang non-admin nggunakake printah admin sandi dening /auth lan mbusak kanthi nggunakake /unauth"
-setting_9 : "⁉️ What is This?\n\nWhen activated, Bot will delete its message after {0} to make your chat clean and clear."
-setting_10 : "⁉️ What is This?\n\n1) Group: Plays music in the group where the command is given .\n\n2) Channel: Plays music in the channel you want. Set channel id via /channelplay"
-setting_11 : "⁉️ What is This?\n\n1) Everyone: Anyone present in this group can play music here.\n\n2) Admin Only: Only admins can play the music in this group."
-setting_12 : "❌ You've no channel id defined for channel mode. Please define with /channelplay."
-setting_13 : "Can't change play mode in active group call. Please stop the voice chat first with /stop."
-setting_14 : "⁉️ What is This?\n\nWhen activated, Bot will delete its executed commands (/play, /pause, /shuffle, /stop etc) immediately.\n\nBot will be requiring delete messages admin right for this to work properly."
+setting_9 : "⁉️ Apa Iki?\n\nNalika diaktifake, Bot bakal mbusak pesen kasebut sawise {0} kanggo nggawe obrolan sampeyan resik lan jelas."
+setting_10 : "⁉️ Apa Iki?\n\n1) Group: Muter musik ing grup sing diwenehi prentah .\n\n2) Channel: Muter musik ing saluran sing dikarepake. Setel id saluran liwat /channelplay"
+setting_11 : "⁉️ Apa Iki?\n\n1) Kabeh: Sapa wae sing ana ing grup iki bisa muter musik ing kene.\n\n2) Admin Only: Mung admin sing bisa muter musik ing grup iki."
+setting_12 : "❌ Sampeyan ora duwe id saluran sing ditetepake kanggo mode saluran. Mangga nemtokake karo /channelplay."
+setting_13 : "Ora bisa ngganti mode play ing telpon grup aktif. Mangga mungkasi obrolan swara dhisik karo /stop."
+setting_14 : "⁉️ Apa Iki?\n\nNalika diaktifake, Bot bakal mbusak printah sing dieksekusi (/play, /pause, /shuffle, /stop etc) immediately.\n\nBot bakal mbutuhake admin mbusak pesen supaya bisa mlaku kanthi bener."
 setting_15 : "Failed to resolve peer, Make sure you have added bot in your channel and promoted it as admin.\n\nTry setting /channelplay again.."
 
 set_cb_1 : "Njupuk panel kualitas audio..."
@@ -120,8 +120,8 @@ gstats_11 : "**General Stats of {0}**\nSelect the buttons from below for which y
 
 # Play 
 #Play Callback 
-playcb_1 : "මෙය ඔබ සඳහා නොවේ! ඔබේම ගීතය සොයන්න."
-playcb_2 : "ඊළඟ ප්‍රතිඵලය ලබා ගනිමින්"
+playcb_1 : "Iki ora kanggo sampeyan! Golek lagu dhewe."
+playcb_2 : "Entuk asil sabanjure"
 
 # Channel Play
 cplay_1 : "Iki chat karo sampeyan[{0}] Sampeyan bisa muter musik ing saluran utawa saluran sing disambungake menyang obrolan.\n\n**Kanggo saluran sing disambungake:**\n`/{1} pranala`\n\n** Kanggo saluran liyane:**\n`/{1} [Channel ID]`"
@@ -160,71 +160,71 @@ playlist_3 : "Sampeyan ora duwe dhaptar lagu ing Bot's Server."
 playlist_4 : "Dhaptar lagu dipikolehi:\n\n"
 playlist_5 :  "wektu- {0} Mins"
 playlist_6 : "Hubungi kula ing PM kanggo mbusak dhaptar lagu."
-playlist_7 : "Bagean ing dhaptar lagu: {0}\n\nඔබේ ධාවන ලැයිස්තුවේ ඇති විශේෂිත ධාවන පථයක් මැකීමට බොත්තම් ඔබන්න.\n\nසම්පූර්ණ ධාවන ලැයිස්තුව මකා දැමීමට: Del Whole Playlist බොත්තම ඔබන්න."
-playlist_8 : "දැනටමත් පවතී\n\nමෙම ධාවන පථය ඔබගේ ධාවන ලැයිස්තුවේ පවතී."
-playlist_9 : "සමාවන්න! ඔබට ධාවන ලැයිස්තුවක සංගීතය {0}ක් පමණක් තිබිය හැක."
-playlist_10 : "ධාවන ලැයිස්තු එකතු කිරීම\n\n{0}\nඔබේ ධාවන ලැයිස්තුවට එකතු කරන ලදී."
-playlist_11 : "ඔබගේ ධාවන පථය සාර්ථකව මකා ඇත."
-playlist_12 : "ඔබගේ ධාවන පථය මැකීමට අසමත් විය."
-playlist_13 : "සේවාදායකයෙන් ඔබගේ සම්පූර්ණ ධාවන ලැයිස්තු මකා ඇත."
-playlist_14 : "**ඔබට ඔබගේ සම්පූර්ණ ධාවන ලැයිස්තුව මකා දැමීමට අවශ්‍ය බව ඔබට විශ්වාසද?**\n\nඔබගේ ධාවන ලැයිස්තුව ඔබට අහිමි වනු ඇති අතර මෙය පසුව ප්‍රතිසාධනය කළ නොහැක."
-playlist_15 : "[සම්පූර්ණ ධාවන ලැයිස්තුව පරීක්ෂා කරන්න]({0})"
-playlist_16 : "පෝලිම් සහිත ධාවන ලැයිස්තුව:"
-playlist_17 : "පෝලිම් පිහිටීම -"
-playlist_18 : "[සම්පූර්ණ පෝලිම් සහිත ධාවන ලැයිස්තුව පරීක්ෂා කරන්න]({0})\n\bඅවසන් පෝලිම් ස්ථානය : **{1}**"
+playlist_7 : "Bagean ing dhaptar lagu: {0}\n\nPencet tombol kanggo mbusak trek tartamtu ing dhaptar lagu.\n\nKanggo mbusak kabeh dhaptar lagu: Del Whole Playlist Pencet tombol."
+playlist_8 : "Wis ana\n\nTrek iki ana ing dhaptar lagu sampeyan."
+playlist_9 : "Nuwun sewu! Sampeyan duwe musik ing dhaptar lagu {0}Mung duwe."
+playlist_10 : "Nambahake dhaptar lagu\n\n{0}\nDitambahake menyang dhaptar lagu."
+playlist_11 : "Trek sampeyan wis kasil dibusak."
+playlist_12 : "Gagal mbusak trek sampeyan."
+playlist_13 : "Kabeh dhaptar lagu sampeyan wis dibusak saka server."
+playlist_14 : "**Apa sampeyan yakin pengin mbusak kabeh dhaptar lagu??**\n\nSampeyan bakal kelangan dhaptar lagu lan iki ora bisa dibalekake mengko."
+playlist_15 : "[Priksa dhaptar lagu lengkap]({0})"
+playlist_16 : "Dhaptar lagu karo antrian:"
+playlist_17 : "Lokasi antrian -"
+playlist_18 : "[Priksa dhaptar lagu kanthi antrian lengkap]({0})\n\bLokasi antrian pungkasan : **{1}**"
 
 
 #Playmode
-playmode_1 : "ඔබගේ කණ්ඩායම තුළ විමසුම් වාදනය කිරීමට ඔබට අවශ්‍ය මාදිලිය තෝරන්න[{0}]."
-playmode_2 : "{0} විසින් සැකසීම් වෙනස් කර සාර්ථකව සුරකින ලදී "
+playmode_1 : "Pilih mode sing pengin diputer pitakon ing grup sampeyan[{0}]."
+playmode_2 : "{0} Ngganti setelan lan kasil disimpen"
 
 #Stream 
-str_1 : "කරුණාකර M3u8 සබැඳි හෝ දර්ශක සබැඳි සපයන්න."
-str_2 : "✅ වලංගු ප්‍රවාහය සත්‍යාපනය කර ඇත\n\nකරුණාකර සබැඳිය සැකසීමට රැඳී සිටින්න.."
-str_3 : "youtube සජීවී ප්‍රවාහ ප්‍රවාහ කිරීමට නොහැක. සජීවී ආකෘතියක් හමු නොවිණි"
+str_1 : "Mangga nyedhiyani pranala M3u8 utawa pranala indeks."
+str_2 : "✅ Aliran sing bener diverifikasi\n\nMangga ngenteni kanggo nyiyapake link.."
+str_3 : "Youtube ora bisa streaming langsung. Ora ana format urip sing ditemokake"
 
 #TopPlay
-tracks_1 : "**Processing {0} Top 10 Playlist**\nThis could take some mins(around 3-4 mins).. Please Wait...\n\n**👤Requested By:** {1}\n\nCheck Top 10 tracks by /stats"
-tracks_2 : "**දෝෂය**\n\nඑහෙම නෑ**{0} ඉහළම ධාවන ලැයිස්තුව 10** bot ගේ සේවාදායකයන් මත. කරුණාකර වෙනත් ධාවන ලැයිස්තුවක් උත්සාහ කරන්න"
+tracks_1 : "**Ngolah {0} Top 10 Playlist**\nIki bisa njupuk sawetara menit (udakara 3-4 menit).. Mangga Enteni...\n\n**👤Dijaluk dening:** {1}\n\nPriksa Top 10 trek dening /stats"
+tracks_2 : "**Kesalahan**\n\n dadi ora**{0} Top playlist10** ing server bot. Coba dhaptar lagu liyane "
 
 
 # TOOLS
 
 #Lyrics
-lyrics_1 : "**භාවිතය:**\n\n/lyrics [ Music Name]"
-lyrics_2 : "ගී පද සොයමින්"
-lyrics_3 : "❌ පද රචනය ගෙන ඒමට අපොහොසත් විය😭.\n\n💡**සෙවීමට උත්සාහ කළේ:** {0}"
+lyrics_1 : "**nggunakake:**\n\n/lyrics [ Music Name]"
+lyrics_2 : "Nggolek lirik"
+lyrics_3 : "❌ Gagal njupuk lirik.\n\n💡**Nyoba nggoleki:** {0}"
 lyrics_5 : 
-lyrics_4 : "පහත බොත්තම මත ක්ලික් කර දිගු අයාචිත තැපැල් වර්ග ගී සෙවුම් වළක්වා ගැනීමට සෙවූ පද ලබා ගන්න."
+lyrics_4 : "Klik tombol ing ngisor iki kanggo njupuk istilah sing digoleki supaya ora telusuran jinis surat sing ora dikarepake.
 
 #Ping
-ping_1 : "පොං!!!!"
-ping_2 : "**පොං!**\n`⚡{0} ms`\n\n<b><u>{1}පද්ධති සංඛ්‍යාලේඛන:</u></b>\nඅතිකාල : {2} \nRAM: {3} \nCpu : {4} \nDisk : {5}"
+ping_1 : "Pong!!!!"
+ping_2 : "**Pong!**\n`⚡{0} ms`\n\n<b><u>{1}Sistem Statistika:</u></b>\nliwat wektu : {2} \nRAM: {3} \nCpu : {4} \nDisk : {5}"
 
 # Song
-song_1 : "ඔබට යූ ටියුබ් වෙතින් සංගීතය හෝ වීඩියෝ බාගත කළ හැක්කේ පුද්ගලික කතාබස් වලදී පමණි. කරුණාකර මාව පුද්ගලික කතාබස් වලින් ආරම්භ කරන්න."
-song_2 : "**භාවිතය:**\n\n/song [සංගීත නාමය] හෝ [Youtube Link]"
-song_3 : "සජීවී සබැඳිය අනාවරණය විය. මට සජීවී යූ ටියුබ් වීඩියෝ බාගත කළ නොහැක."
-song_4 : "**🔗ශීර්ෂය:**- {0}\n\nඔබට බාගත කිරීමට අවශ්‍ය වර්ගය තෝරන්න."
-song_5 : "වලංගු Youtube සබැඳියක් නොවේ"
-song_6 : "ආකෘති ලබා ගනිමින්.. \n\nකරුණාකර රැඳී සිටින්න.."
-song_7 : "වීඩියෝව සඳහා පවතින ආකෘති ලබා ගැනීමට අසමත් විය. කරුණාකර වෙනත් ඕනෑම ධාවන පථයක් උත්සාහ කරන්න."
-song_8 : "බාගත කිරීම ආරම්භ විය\n\nබාගත කිරීමේ වේගය මන්දගාමී විය හැක. කරුණාකර ඉන්න.."
-song_9 : "Youtube-DL වෙතින් ගීතය බාගත කිරීම අසාර්ථක විය\n\n**හේතුව:** {0}"
-song_10 : "සේවාදායක වෙතින් ටෙලිග්‍රැම් උඩුගත කිරීම අසාර්ථක විය."
-song_11 : "උඩුගත කිරීම ආරම්භ කර ඇත\n\nඋඩුගත කිරීමේ වේගය මන්දගාමී විය හැක. කරුණාකර ඉන්න.."
+song_1 : "Sampeyan mung bisa ndownload musik utawa video saka YouTube ing obrolan pribadi. Mangga miwiti kula karo chatting pribadi."
+song_2 : "**nggunakake:**\n\n/song [jeneng musik] utawa [Youtube Link]"
+song_3 : "Link langsung dicethakaké. Aku ora bisa ngundhuh video youtube langsung."
+song_4 : "**🔗judhul:**- {0}\n\nPilih jinis sing pengin didownload."
+song_5 : "sah Youtube Ora link"
+song_6 : "Entuk model.. \n\nTahan baris, mangga.."
+song_7 : "Gagal njupuk format sing ana kanggo video. Mangga nyoba trek liyane."
+song_8 : "Download diwiwiti\n\nKacepetan download bisa uga alon. Mangga ngenteni.."
+song_9 : "Youtube-DL Gagal ndownload lagu saka\n\n**alesan:** {0}"
+song_10 : "Gagal ngunggah telegram saka server."
+song_11 : "Unggahan diwiwiti \ n \ nKacepetan upload bisa uga alon. Mangga ngenteni.."
 
 # Tools - Queue
-queue_1 : "කරුණාකර රැඳී සිටින්න.. පෝලිම ලබා ගනිමින්.."
-queue_2 : "පෝලිමේ ඇතුළත පීලි නැත."
-queue_3 : "<u>**පෝලිම් පීලි:</u>**  [මෙතැනින් තවත් පෝලිම් සහිත පීලි පරීක්ෂා කරන්න]({0})"
-queue_4 : "⏳ පෝලිමට එකතු කරන ලදී **#{0}\n\n💡ශීර්ෂය:** {1}\n**⏱කාල සීමාව:** {2}\n👤**එකතු කරන ලද්දේ:** {3}"
+queue_1 : "Enteni. Antri.."
+queue_2 : "Ora ana trek ing antrian."
+queue_3 : "<u>**Antrian trek:</u>**  [Priksa trek antrian liyane ing kene]({0})"
+queue_4 : "⏳ Ditambahake ing antrian **#{0}\n\n💡judhul:** {1}\n**Watesan wektu:** {2}\n👤**Ditambahake:** {3}"
 
 # All Streaming Lines
-stream_1 : "📡 **සංගිතය ආරම්භ විය** 💡\n\n👤**ඉල්ලන ලද්දේ:** {0}\n🔦**විස්තර: **[Here]({1})"
-stream_2 : "📡 **සංගිතය ආරම්භ විය URL හරහා ** 💡\n\n👤**ඉල්ලන ලද්දේ:** {0}"
-stream_3 : "📡 **සංගිතය ආරම්භ විය** 💡\n\n**🏷ශීර්ෂය:** {0}\n⌛️**කාල සීමාව**: {1}\n👤**ඉල්ලන ලද්දේ:** {2}"
-stream_4 : "📡 **සංගිතය ආරම්භ විය** 💡\n\n**🏷ශීර්ෂය:** [{0}]({1})\n⌛️**කාල සීමාව**: {2}\n👤**ඉල්ලන ලද්දේ:** {3}"
+stream_1 : "📡 **Musik diwiwiti** 💡\n\n👤**Dijaluk:** {0}\n🔦**rincian: **[kene]({1})"
+stream_2 : "📡 **Musik diwiwiti liwat URL ** 💡\n\n👤**Dijaluk:** {0}"
+stream_3 : "📡 **Musik diwiwiti ** 💡\n\n**🏷judhul:** {0}\n⌛️**wektu**: {1}\n👤**Dijaluk:** {2}"
+stream_4 : "📡 **Musik diwiwiti ** 💡\n\n**🏷judhul:** [{0}]({1})\n⌛️**wektu**: {2}\n👤**Dijaluk:** {3}"
 
 # Inline Buttons
 
