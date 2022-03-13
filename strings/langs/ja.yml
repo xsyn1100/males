@@ -35,7 +35,6 @@ auth_6 : "බලයලත් පරිශීලකයින් ලබා ගන�
 auth_7 : "**බලයලත් පරිශීලක ලැයිස්තුව[AUL]:**\n\n"
 auth_8 : "┗ එකතු කරන ලද්දේ:-"
 
-
 # PLUGINS - Admins
 admin_1 : "Musik wis ngaso."
 admin_2 : "🎧 Musike mandheg {}!"
@@ -189,9 +188,7 @@ str_3 : "Youtube ora bisa streaming langsung. Ora ana format urip sing ditemokak
 tracks_1 : "**Ngolah {0} Top 10 Playlist**\nIki bisa njupuk sawetara menit (udakara 3-4 menit).. Mangga Enteni...\n\n**👤Dijaluk dening:** {1}\n\nPriksa Top 10 trek dening /stats"
 tracks_2 : "**Kesalahan**\n\n dadi ora**{0} Top playlist10** ing server bot. Coba dhaptar lagu liyane "
 
-
 # TOOLS
-
 #Lyrics
 lyrics_1 : "**nggunakake:**\n\n/lyrics [ Music Name]"
 lyrics_2 : "Nggolek lirik"
