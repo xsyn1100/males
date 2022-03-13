@@ -27,14 +27,15 @@ call_11 : "Mangga nambah @{0} menyang saluran sampeyan[ ID: {1}].\n\nBot ora bis
 
 
 # PLUGINS - Auth.py
-auth_1 : "Sampeyan ana ing dhaptar pangguna sing sah ing grup sampeyan (AUL) Mung ana 20 pangguna."
-auth_2 : "Ditambahake menyang dhaptar pangguna sah klompok sampeyan."
-auth_3 : "Wis ana ing dhaptar pangguna sing sah."
-auth_4 : "Dibusak saka dhaptar pangguna sah grup iki."
-auth_5 : "Ora pangguna sah."
-auth_6 : "Aku entuk pangguna sing sah... Tahan baris, mangga"
-auth_7 : "**Dhaptar pangguna sing sah[AUL]:**\n\n"
-auth_8 : "┗ Ditambahake:-"
+auth_1 : "ඔබට ඔබේ සමූහයේ බලයලත් පරිශීලක ලැයිස්තුවේ (AUL) සිටිය හැක්කේ පරිශීලකයින් 20ක් පමණි."
+auth_2 : "ඔබගේ සමූහයේ බලයලත් පරිශීලක ලැයිස්තුවට එකතු කරන ලදී."
+auth_3 : "දැනටමත් බලයලත් පරිශීලක ලැයිස්තුවේ ඇත."
+auth_4 : "මෙම සමූහයේ බලයලත් පරිශීලක ලැයිස්තුවෙන් ඉවත් කරන ලදී."
+auth_5 : "බලයලත් පරිශීලකයෙක් නොවේ."
+auth_6 : "බලයලත් පරිශීලකයින් ලබා ගනිමින්... කරුණාකර රැඳී සිටින්න"
+auth_7 : "**බලයලත් පරිශීලක ලැයිස්තුව[AUL]:**\n\n"
+auth_8 : "┗ එකතු කරන ලද්දේ:-"
+
 
 # PLUGINS - Admins
 admin_1 : "Musik wis ngaso."
