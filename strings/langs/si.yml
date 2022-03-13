@@ -67,22 +67,21 @@ admin_27 : "Loop Play Wis dipatèni"
 
 # Bot 
 # Start
-start_1 : "Thanks for having me in {0}.\n{1} is alive.\n\nFor any assistance or help, checkout our support group and channel."
-start_2 : "Hello, My name is {0}.\n\nI'm a telegram streaming bot with some useful features. Supporting platforms like Youtube, Spotify, Resso, AppleMusic , Soundcloud etc.\n\nFeel free to add me to your groups."
-start_3 : "Welcome To {0}\n\nI don't need any **admin permission** to work ( until asked for ).\n\nAssistant Username:- @{1}\nAssistant ID:- {2}"
-start_4 : "{0}'s Owner[{1}] has just joined your chat."
-start_5 : "A member of {0}'s Sudo User[{1}] has just joined your chat."
-start_6 : "❗️ **Supergroup Needed** ❗️\n\nPlease convert your **group** to **supergroup** and then add me back.\n\n**How to make supergroup?**\n✅ Make your group's chat history **visible** once."
-start_7 : "**Blacklisted Chat**\n\nYou're chat has been blacklisted by the Bot. Please ask any SudoUser to whitelist chat first. Check [Sudolist from here]({0})"
+start_1 : "Matur nuwun amarga wis mlebu {0}.\n{1} isih urip.\n\nKanggo pitulungan utawa pitulungan, priksa grup lan saluran dhukungan."
+start_2 : "Halo, jenengku {0}.\n\nAku bot streaming telegram kanthi mangkono start_3 : "Welcome kanggo {0}\n\nAku ora butuh **izin admin** kerjo ( nganti dijaluk ).\n\nAssistant Username:- @{1}\nAssistant ID:- {2}"
+start_4 : "Pamilik {0}[{1}] nembe gabung karo obrolan sampeyan."
+start_5 : "Anggota saka {0}'s Sudo User[{1}] wis gabung karo obrolan sampeyan."
+start_6 : "❗️ **Supergroup Dibutuhake** ❗️\n\nTulung ganti **grup** sampeyan dadi **supergrup** banjur tambahake aku maneh.\n\n**Piye carane nggawe supergrup?**\n✅ Gawe riwayat obrolan grup sampeyan **katon** sapisan."
+start_7 : "**Ngobrol Blacklisted**\n\nObrolan sampeyan wis didaftar ireng dening Bot. Mangga njaluk SudoUser kanggo daftar putih chatting dhisik. Priksa [Sudolist saka kene]({0})"
 
 # Help
-help_1 : "වැඩි විස්තර සඳහා පහත බොත්තම් ක්ලික් කරන්න.\n\nසියලු විධානයන් සමඟ භාවිතා කළ හැක: /"
-help_2 : "උදව් සඳහා PM වලින් මාව සම්බන්ධ කරගන්න."
+help_1: "Klik tombol ing ngisor iki kanggo informasi luwih lengkap. \ n \ nUse bisa digunakake karo kabeh printah: /"
+help_2: "Hubungi kula PM kanggo bantuan."
 
 # Settings
-setting_1 : "⚙️ **Music Bot Settings**\n\n🖇**Group:** {0}\n🔖**Group ID:** `{1}`\n\n💡**Choose the function buttons from below which you want to edit or change.**"
-setting_3 : "⁉️ What is This?\n\n1) Direct: Plays search queries directly. Use -v to play videos in direct mode.\n\n2) Inline: Returns Inline Markup Buttons for choosing between video & audio."
-setting_4 : "⁉️ What is This?\n\n👥 Everyone: Anyone can use admin commands(skip, pause, resume etc) present in this group.\n\n🙍 Admin Only: Only admins and authorized users can use admin commands."
+setting_1 : "⚙️ **Setelan Bot Musik**\n\n🖇**Grup:** {0}\n🔖**ID Grup:** `{1}`\n\n💡**Pilih tombol fungsi saka ngisor sing arep diowahi utawa diowahi.**"
+setting_3 :"⁉️ Apa Iki?\n\n1) Langsung: Muter pitakon telusuran langsung. Gunakake -v kanggo muter video ing mode langsung.\n\n2) Inline: Ngasilake Tombol Markup Inline kanggo milih antarane video & audio."
+setting_4 : "⁉️ Apa i ora ana id saluran sing ditetepake kanggo mode saluran. Mangga nemtokake karo /channelplay."
 setting_5 : "No Authorized Users Found\n\nYou can allow any non-admin to use my admin commands by /auth and delete by using /unauth"
 setting_9 : "⁉️ What is This?\n\nWhen activated, Bot will delete its message after {0} to make your chat clean and clear."
 setting_10 : "⁉️ What is This?\n\n1) Group: Plays music in the group where the command is given .\n\n2) Channel: Plays music in the channel you want. Set channel id via /channelplay"
