@@ -1,4 +1,4 @@
-name : sinhala
+name : jawa
 
 # General Strings
 general_1 : "Bales jeneng panganggo utawa ketik jeneng panganggo / user_id."
@@ -90,18 +90,18 @@ setting_13 : "Ora bisa ngganti mode play ing telpon grup aktif. Mangga mungkasi 
 setting_14 : "⁉️ Apa Iki?\n\nYen diaktifake, Bot bakal langsung mbusak printah sing dieksekusi (/play, /pause, /shuffle, /stop etc). kanggo mutusake masalah peer, Priksa manawa sampeyan wis nambahake bot ing saluran sampeyan lan promosiake minangka admin.\n\nCoba nyetel /channelplay maneh.."
 setting_15 : "Gagal ngrampungake peer, Priksa manawa sampeyan wis nambahake bot ing saluran sampeyan lan promosiake minangka admin.\n\nCoba nyetel /channelplay maneh.."
 
-set_cb_1 : "ශ්‍රව්‍ය තත්ත්ව පැනලය ලබා ගනිමින්..."
-set_cb_2 : "වීඩියෝ තත්ත්ව පැනලය ලබා ගනිමින්..."
-set_cb_3 : "සත්‍යාපන පරිශීලක පැනලය ලබා ගනිමින්..."
-set_cb_4 : "Play මාදිලි පැනලය ලබා ගනිමින්..."
-set_cb_5 : "පිරිසිදු මාදිලි පැනලය ලබා ගනිමින්..."
-set_cb_6 : "වෙනස්කම් සැකසීම."
-set_cb_7 : "සත්‍යාපන පරිශීලක ලැයිස්තුව ලබා ගනිමින්.. කරුණාකර රැඳී සිටින්න."
-set_cb_8 : "ආපසු ලබා ගැනීම.."
+set_cb_1 : "Njupuk panel kualitas audio ... "
+set_cb_2: "Njupuk panel kualitas video ..."
+set_cb_3: "Otentikasi Njupuk panel pangguna ... "
+set_cb_4: "Njupuk panel Mode Play ..."
+set_cb_5: "Njupuk panel mode resik ..."
+set_cb_6: "Gawe owahan."
+set_cb_7 : "Entuk Dhaptar Panganggo Otentikasi.. Enteni."
+set_cb_8: "Waras.."
 
 # Misc
-ustats_1 : "No User Stats Found."
-ustats_2 : "Grettings!, You have played **{0}** tracks till now with a whopping count of **{1}** times.\n\nTop {2} played by you:\n\n"
+ustats_1 : "Ora Ana Statistik Pangguna Ditemokake."
+ustats_2 : "Salam!, Sampeyan wis muter **{0}** trek nganti saiki kanthi jumlah sing akeh banget **{1}** times.\n\nTop {2} diputer dening sampeyan:\n\n"
 
 gstats_1 : "Getting Global Stats, This could take some time..."
 gstats_2 : "No Stats Found."
@@ -118,36 +118,36 @@ gstats_11 : "**General Stats of {0}**\nSelect the buttons from below for which y
 
 # Play 
 #Play Callback 
-playcb_1 : "මෙය ඔබ සඳහා නොවේ! ඔබේම ගීතය සොයන්න."
-playcb_2 : "ඊළඟ ප්‍රතිඵලය ලබා ගනිමින්"
+playcb_1 : "Iki dudu kanggo sampeyan! Golek lagu dhewe."
+playcb_2: "Entuk asil sabanjure"
 
 # Channel Play
-cplay_1 : "ඔබට මෙම කතාබස්[{0}] සිට ඕනෑම නාලිකාවකට හෝ ඔබේ කතාබස් සම්බන්ධිත නාලිකාවකට නාලිකාවල සංගීතය වාදනය කළ හැක.\n\n**සම්බන්ධිත නාලිකාව සඳහා:**\n`/{1} සබැඳි`\n\n** වෙනත් ඕනෑම නාලිකාවක් සඳහා:**\n`/{1} [Channel ID]`"
-cplay_2 : "මෙම කතාබහට සම්බන්ධිත නාලිකාවක් නොමැත."
-cplay_3 : "නාලිකාව {0}\n\n__Channel ID__: {1} වෙත අර්ථ දක්වා ඇත"
-cplay_4 : "නාලිකාව ලබා ගැනීමට අපොහොසත් විය.\n\nඔබ ඔබේ නාලිකාවට බොට් එක් කර එය පරිපාලක ලෙස උසස් කර ඇති බව සහතික කර ගන්න.\n/channelplay හරහා නාලිකාව වෙනස් කරන්න හෝ /playmode හරහා නාලිකා ධාවන ප්‍රකාරය අබල කරන්න"
-cplay_5 : "නාලිකා පමණක් සහය දක්වයි."
-cplay_6 : "මෙම කණ්ඩායම සමඟ සම්බන්ධ වීමට ඔබ නාලිකාවේ [{0}] **හිමිකරු** විය යුතුය.\n**නාලිකාවේ හිමිකරු:** @{1}\n\nවිකල්පයක් ලෙස ඔබට ඔබේ කණ්ඩායම එම නාලිකාවට සම්බන්ධ කළ හැකිය ඉන්පසු `/channelplay linked` සමඟ සම්බන්ධ වීමට උත්සාහ කරන්න."
+cplay_1 : "Iki chat karo sampeyan[{0}] Sampeyan bisa muter musik ing saluran utawa saluran sing disambungake menyang obrolan.\n\n**Kanggo saluran sing disambungake:**\n`/{1} pranala`\n\n** Kanggo saluran liyane:**\n`/{1} [Channel ID]`"
+cplay_2 : "Ora ana pranala menyang obrolan iki."
+cplay_3 : "Saluran {0}\n\n__Channel ID__: {1} Ditetepake kanggo"
+cplay_4 : "Gagal entuk saluran.\n\nSampeyan nambahake bot menyang saluran sampeyan lan nggawe dadi admin Priksa manawa wis nganyari kanggo.\n/channelplay Ngganti saluran liwat utawa /playmode Pateni dhaptar lagu saluran liwat"
+cplay_5 : "Saluran mung didhukung."
+cplay_6 : "Sampeyan ana ing saluran kanggo gabung karo grup iki [{0}] **sing duwe** Kudu.\n**Sing duwe saluran:** @{1}\n\nUtawa, sampeyan bisa nyambungake tim menyang saluran kasebut `/channelplay linked` Coba nyambungake karo."
 
 #Play
-play_1 : "🔄 විමසුම සකසමින්... කරුණාකර රැඳී සිටින්න!"
-play_2 : "**🏷නාලිකා ප්ලේ මාදිලිය**\n🔄 විමසුම සකසමින්... කරුණාකර රැඳී සිටින්න!\n\n**සම්බන්ධිත නාලිකාව:** {0}"
-play_3 : "විමසුම සැකසීමට අසමත් විය!"
-play_4 : "🖇 **පරිපාලකයින්ට පමණක් වාදනය කරන්න**\nමෙම සමූහයේ සංගීතය වාදනය කළ හැක්කේ පරිපාලකයින්ට සහ සත්‍යාපන පරිශීලකයින්ට පමණි.\n\n/playmode හරහා මාදිලිය වෙනස් කරන්න සහ ඔබ දැනටමත් පරිපාලක නම්, /admincache හරහා admincache නැවත පූරණය කරන්න"
-play_5 : "ශ්‍රව්‍ය ගොනුව සැකසීමට අසමත් විය.\n\nශ්‍රව්‍ය ගොනු ප්‍රමාණය 100 mb ට වඩා අඩු විය යුතුය"
-play_6 : "**කාල සීමාව ඉක්මවන ලදී**\n\n**අවසර ලත් කාල සීමාව: **{0}මිනිත්තු(ය)\n**ලැබුණු කාල සීමාව:** {1}මිනි(ය)"
-play_7 : "සමාවන්න! CPU අධි බර ගැටළු හේතුවෙන් Bot ඉඩ දෙන්නේ සීමිත වීඩියෝ ඇමතුම් ගණනකට පමණි. වෙනත් බොහෝ කතාබස් දැන් වීඩියෝ ඇමතුම් භාවිතා කරයි. ශ්‍රව්‍ය වෙත මාරු වීමට උත්සාහ කරන්න හෝ පසුව නැවත උත්සාහ කරන්න"
-play_8 : "වලංගු වීඩියෝ ගොනු දිගුවක් නොවේ!\n\n**සහාය දක්වන ආකෘති:** {0}"
-play_9 : "වීඩියෝ ගොනු ප්‍රමාණය 1 GiB ට වඩා අඩු විය යුතුය"
-play_10 : "**Youtube Playlist විශේෂාංගය**\n\nඔබට සම්පූර්ණ Youtube Playlist වාදනය කිරීමට අවශ්‍ය මාදිලිය තෝරන්න"
-play_11 : "📎ශීර්ෂය: **{0}\n\n⏳කාල සීමාව:** {1} Mins"
-play_12 : "**Spotify Playlists**\n\nඉල්ලන ලද්දේ:- {0}"
-play_13 : "**Apple Playlists**\n\nඉල්ලන ලද්දේ:- {0}"
-play_14 : "**URL එක සත්‍යාපනය කළ නොහැක.**\nමෙම url එක පහත සඳහන් ඕනෑම වේදිකාවකට අයත් වේද යන්න පුදුමයට කරුණකි: Youtube, AppleMusic, Spotify, Resso සහ Soundcloud.\n\nඔබට M3u8 හෝ දුරස්ථ සබැඳි සඳහා /stream භාවිතා කළ හැක."
-play_15 : "**සජීවී ප්‍රවාහය අනාවරණය කර ඇත**\nපද්ධති මඟින් ඔබේ ධාවන සබැඳිය සජීවී ප්‍රවාහයක් ලෙස හඳුනාගෙන ඇත. සජීවී ප්‍රවාහය ක්‍රීඩා කිරීමට අවශ්‍යද?"
-play_16 : "ඛණ්ඩ විස්තර ලබා ගැනීමට අසමත් විය. වෙනත් ඕනෑම සෙල්ලම් කිරීමට උත්සාහ කරන්න."
-play_17 : "Unable to play this type of spotify query!\n\nI can only play spotify tracks, albums, artists and playlists"
-play_18 : "**No Active Voice Chat Found**\n\nTo use force play, there must be an active voice chat going on in your group. **Force Play** stops the playing track on voice chat and starts playing the searched track instantly without disturbing/clearing queue."
+play_1 : "🔄 Setelan pitakon... Tahan baris, mangga!"
+play_2 : "**🏷Mode Puter Saluran**\n🔄 Setelan pitakon... Tahan baris, mangga!\n\n**Saluran sing disambungake:** {0}"
+play_3 : "Gagal ngolah pitakon!"
+play_4 : "🖇 **Play mung kanggo admin**\nMusik ing grup iki mung bisa diputer dening admin lan pangguna otentikasi.\n\n/playmode Ganti mode liwat lan yen sampeyan wis dadi administrator, /admincache liwat admincache Muat maneh"
+play_5 : "Gagal nggawe file audio. \n\nUkuran file audio kudu kurang saka 100 mb"
+play_6 : "**Wektu entek kadaluwarsa**\n\n**Periode sing diidini: **{0} Menit (y)\n**Duration ditampa:** {1}Min (y)"
+play_7 : "Nuwun sewu! CPU Amarga masalah kakehan, Bot mung ngidini sawetara panggilan video sing winates. Akeh obrolan liyane saiki nggunakake panggilan video. Coba ganti menyang audio utawa coba maneh mengko"
+play_8 : "Ora ekstensi file video sing bener!\n\n**Didhukung Model:** {0}"
+play_9 : "Ukuran file video kudu kurang saka 1 GiB "
+play_10 : "**Youtube Playlist Fitur**\n\nLengkap kanggo sampeyan Youtube Playlist Pilih mode sing arep diputer"
+play_11 : "📎judhul: **{0}\n\n⏳wektu:** {1} Mins"
+play_12 : "**Spotify Playlists**\n\n dijaluk:- {0}"
+play_13 : "**Apple Playlists**\n\nDijaluk:- {0}"
+play_14 : "**URL Siji ora bisa diverifikasi.**\nIki url Siji kepengin weruh yen ana ing salah sawijining platform ing ngisor iki: Youtube, AppleMusic, Spotify, Resso සහ Soundcloud.\n\nkowe M3u8 Utawa kanggo pranala remot /stream Bisa digunakake."
+play_15 : "**Live stream dicethakaké**\nSistem ndeteksi dhaptar lagu minangka live stream. Pengin muter live streaming??"
+play_16 : "Gagal njupuk rincian segmen. Coba muter liyane."
+play_17 : "Ora bisa muter pitakon spotify jinis iki!\n\nI mung bisa muter trek spotify, album, artis lan dhaptar lagu"
+play_18 : "**Ora Aktif Voice Chat Foud**\n\nKanggo nggunakake play force, kudu ana obrolan swara aktif ing grup sampeyan. **Play Force** mungkasi trek muter ing obrolan swara lan wiwit muter trek sing digoleki kanthi cepet tanpa ngganggu / ngresiki antrian."
 
 
 
@@ -173,13 +173,13 @@ playlist_18 : "[සම්පූර්ණ පෝලිම් සහිත ධා�
 
 
 #Playmode
-playmode_1 : "ඔබගේ කණ්ඩායම තුළ විමසුම් වාදනය කිරීමට ඔබට අවශ්‍ය මාදිලිය තෝරන්න[{0}]."
-playmode_2 : "{0} විසින් සැකසීම් වෙනස් කර සාර්ථකව සුරකින ලදී "
+playmode_1 : "Pilih mode sing pengin diputer pitakon ing band sampeyan [{0}]. "
+playmode_2: "{0} owah-owahan ngganti setelan lan kasil disimpen"
 
 #Stream 
-str_1 : "කරුණාකර M3u8 සබැඳි හෝ දර්ශක සබැඳි සපයන්න."
-str_2 : "✅ වලංගු ප්‍රවාහය සත්‍යාපනය කර ඇත\n\nකරුණාකර සබැඳිය සැකසීමට රැඳී සිටින්න.."
-str_3 : "youtube සජීවී ප්‍රවාහ ප්‍රවාහ කිරීමට නොහැක. සජීවී ආකෘතියක් හමු නොවිණි"
+str_1 : "Mangga wenehi pranala M3u8 utawa pranala indeks."
+str_2: "Arus sing bener wis diverifikasi \n\n Mangga ngenteni link disetel."
+str_3: "youtube ora bisa stream live stream. Golek format langsung."
 
 #TopPlay
 tracks_1 : "**Processing {0} Top 10 Playlist**\nThis could take some mins(around 3-4 mins).. Please Wait...\n\n**👤Requested By:** {1}\n\nCheck Top 10 tracks by /stats"
