@@ -12,7 +12,6 @@ general_6 : "Swara boat ora stream ing tim."
 tg_1 : "Bot iku **kakehan beban** karo download saiki.\n\n**Coba Sawise:** {0} (__expected time__)"
 tg_2 : "Ngundhuh media saka Telegram gagal."
 
-
 # Core - Call.py
 call_1 : "Kanggo ngundang Bot menyang akun Asisten Saluran **Admin** Ijin dibutuhake.\n\n: /playmode Saluran liwat Musik Mode Pateni"
 call_2 : "Mitra dilarang ing grup utawa saluran sampeyan, aja nglarang.\n\n**Jeneng panganggo tambahan:** @{0}\n**Asisten KTP:** {1}"
