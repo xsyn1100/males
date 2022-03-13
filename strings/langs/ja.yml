@@ -25,7 +25,6 @@ call_9 : "**Gagal nransfer musik**\nMangga ngganti musik maneh /skip Gunakake."
 call_10 : "Download episode sabanjure saka dhaptar musik"
 call_11 : "Mangga nambah @{0} menyang saluran sampeyan[ ID: {1}].\n\nBot ora bisa entuk rincian saluran."
 
-
 # PLUGINS - Auth.py
 auth_1 : "ඔබට ඔබේ සමූහයේ බලයලත් පරිශීලක ලැයිස්තුවේ (AUL) සිටිය හැක්කේ පරිශීලකයින් 20ක් පමණි."
 auth_2 : "ඔබගේ සමූහයේ බලයලත් පරිශීලක ලැයිස්තුවට එකතු කරන ලදී."
@@ -124,13 +123,15 @@ gstats_11 : "**General Stats of {0}**\nSelect the buttons from below for which y
 playcb_1 : "Iki ora kanggo sampeyan! Golek lagu dhewe."
 playcb_2 : "Entuk asil sabanjure"
 
+
 # Channel Play
-cplay_1 : "Iki chat karo sampeyan[{0}] Sampeyan bisa muter musik ing saluran utawa saluran sing disambungake menyang obrolan.\n\n**Kanggo saluran sing disambungake:**\n`/{1} pranala`\n\n** Kanggo saluran liyane:**\n`/{1} [Channel ID]`"
-cplay_2 : "Ora ana pranala menyang obrolan iki."
-cplay_3 : "Saluran {0}\n\n__Channel ID__: {1} Ditetepake kanggo "
-cplay_4 : "Gagal entuk saluran.\n\nPriksa manawa sampeyan nambahake bot menyang saluran sampeyan lan nganyarke minangka administrator.\n/channelplay Ngganti saluran liwat utawa /playmode Pateni dhaptar lagu saluran liwat"
-cplay_5 : "Saluran mung didhukung."
-cplay_6 : "Sampeyan ana ing saluran kanggo gabung karo grup iki [{0}] **sing duwe** Kudu.\n**Pemilik saluran:** @{1}\n\nUtawa, sampeyan bisa nyambungake tim menyang saluran kasebut `/channelplay linked` Coba nyambungake karo."
+cplay_1 : "आप इस चैट से चैनलों में संगीत चला सकते हैं[{0}] किसी भी चैनल या अपने चैट के लिंक किए गए चैनल के लिए।\n\n**लिंक किए गए चैनल के लिए:**\n`/{1} linked`\n\n** किसी अन्य चैनल के लिए:**\n`/{1} [चैनल आईडी]`"
+cplay_2 : "इस चैट का कोई लिंक्ड चैनल नहीं है।"
+cplay_3 : "चैनल परिभाषित {0}\n\n__चैनल आईडी__: {1}"
+cplay_4 : "चैनल प्राप्त करने में विफल.\n\nसुनिश्चित करें कि आपने अपने चैनल में बॉट जोड़ा है और इसे व्यवस्थापक के रूप में प्रचारित किया है।\nचैनल को /चैनलप्ले के माध्यम से बदलें या चैनल प्ले मोड को /प्लेमोड के माध्यम से अक्षम करें"
+cplay_5 : "केवल चैनल समर्थित हैं।"
+cplay_6 : "चैनल को इस समूह से जोड़ने के लिए आपका **स्वामी** होना आवश्यक है[{0}]।\n**चैनल का स्वामी:** @{1}\n\nवैकल्पिक रूप से आप अपने समूह को उस चैनल से लिंक कर सकते हैं और फिर `/ channelplay लिंक्ड` से कनेक्ट करने का प्रयास करें"
+
 
 #Play
 play_1 : "🔄 Setelan pitakon... Tahan baris, mangga!"
